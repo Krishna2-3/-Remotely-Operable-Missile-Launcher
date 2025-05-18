@@ -17,4 +17,6 @@ Firebase is used as the central communication platform, offering real-time data
 synchronization and reliable messaging between the web application and the 
 missile launcher hardware. This ensures immediate response and control, 
 which is crucial for the effective operation of the system.
+
 ![1732259924298](https://github.com/user-attachments/assets/9b88d2db-8c0d-4242-ae67-7e52eafbf810)
+![WhatsApp Image 2025-04-02 at 14 51 35](https://github.com/user-attachments/assets/8464d386-616e-4a58-8efc-994dc18eac6e)
